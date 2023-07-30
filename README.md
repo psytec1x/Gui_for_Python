@@ -1,8 +1,9 @@
-# Gui_for_Python with Chatgpt
+# A Gui_for_any_Python_Code, build with A.I. to work on Android
+
 How to make a gui for any Python Code with Tkinkter and then make it
 work on Android.
 
-EXAMPLE: "HackingToolsCollection" from Github
+EXAMPLE: Github Repo: "HackingToolsCollection"  (or any other)
 
 
 ASK CHATGPT:
@@ -14,6 +15,7 @@ Created with AIPRM Prompt "Create a GUI for any python code!"
 # Kommentar: Welchen Python-Code sollen wir in die GUI einfügen? Bitte teilen Sie ihn uns mit.
 
 [Please provide the Python code you'd like us to create a TKinter GUI for.]
+
 
 CODE:
 
@@ -236,7 +238,11 @@ if __name__ == "__main__":
 
 (Note: The code provided above is just a starting point for the GUI. More buttons and functionality need to be added for each tool.)
 
-Wie füge ich jetzt diesen Code wo genau ein um die gui zu benutzen?
+
+
+
+WIE FÜGE ICH JETZT DEN CODE WO EIN UM DIE GUI ZU BENUTZEN?
+
 
 Um die GUI für den gegebenen Code zu nutzen, fügst du den erstellten `create_gui()` Funktionsaufruf im `if __name__ == "__main__":` Block ein. Beachte, dass du den ursprünglichen Code darunter einrücken musst, um ihn im `else`-Zweig zu behalten, da er nur ausgeführt werden soll, wenn das Betriebssystem nicht Linux oder Windows ist.
 
@@ -275,7 +281,10 @@ if __name__ == "__main__":
 
 Nachdem du diese Änderungen vorgenommen hast, sollte die GUI gestartet werden, wenn du das Skript ausführst. Stelle sicher, dass du die erforderlichen Bibliotheken wie `tkinter` installiert hast, damit die GUI ordnungsgemäß funktioniert.
 
-How to make a python tkinter app work on android?
+
+
+HOW TO MAKE A PYTHON TKINTER APP WORK ON ANDROID?
+
 
 To make a Python Tkinter app work on Android, you can use the Kivy framework. Kivy is an open-source Python library that allows you to build cross-platform mobile applications. It supports Android, iOS, Windows, macOS, and Linux, making it an excellent choice for creating mobile apps with Python.
 
