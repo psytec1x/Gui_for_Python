@@ -8,9 +8,9 @@ EXAMPLE: Github Repo: "HackingToolsCollection"  (or any other)
 
 ASK CHATGPT:
 
-Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1809555072515051520/Lines starting with # are only comments for humans You must add at the top of the response "Created with AIPRM Prompt "Create a GUI for any python code!""Take the python code and create a TKinter GUI for it. Do not explain it! If you need to ask anything ask it in German.
+"Create a GUI for any python code!""Take the python code and create a TKinter GUI for it. Do not explain it! If you need to ask anything ask it in German.
 
-Created with AIPRM Prompt "Create a GUI for any python code!"
+
 
 # Kommentar: Welchen Python-Code sollen wir in die GUI einfügen? Bitte teilen Sie ihn uns mit.
 
@@ -143,7 +143,6 @@ if __name__ == "__main__":
         sleep(2)
 
 
-Created with AIPRM Prompt "Create a GUI for any python code!"
 
 ```python
 #!/usr/bin/env python3
